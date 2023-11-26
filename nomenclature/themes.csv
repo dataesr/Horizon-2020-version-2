@@ -1,0 +1,304 @@
+CODE_THEME;CD_THEMA;abbr;theme;CD_PARENT_DIVNAME;NEW_PARENT;LEVEL_NEW;CD_LEVEL
+A;H2020;H2020;H2020;;;1;1
+AA;EU.1.;Excellent Science;Excellent Science;H2020;A;2;3
+AAA;EU.1.1.;ERC;European Research Council;EU.1.;AA;3;4
+AAB;EU.1.2.;FET;Future and Emerging Technologies;EU.1.;AA;3;4
+AABA;EU.1.2.1.;;FET Open;EU.1.2.;AAB;4;5
+AABB;EU.1.2.2.;;FET Proactive;EU.1.2.;AAB;4;5
+AABC;EU.1.2.3.;;FET Flagships;EU.1.2.;AAB;4;5
+AAC;EU.1.3.;MSCA;Marie Sklodowska-Curie actions;EU.1.;AA;3;4
+AACA;EU.1.3.1.;;Fostering new skills by means of excellent initial training of researchers;EU.1.3.;AAC;4;5
+AACB;EU.1.3.2.;;Nurturing excellence by means of cross-border and cross-sector mobility;EU.1.3.;AAC;4;5
+AACC;EU.1.3.3.;;Stimulating innovation by means of cross-fertilisation of knowledge;EU.1.3.;AAC;4;5
+AACCHB;EU.3.3.8.2.;;Increase the energy efficiency of production of hydrogen mainly from water electrolysis and renewable sources while reducing operating and capital costs, so that the combined system of the hydrogen production and the conversion using the fuel cell system;EU.3.3.8.;ACCH;5;6
+AACD;EU.1.3.4.;;Increasing structural impact by co-funding activities;EU.1.3.;AAC;4;5
+AACE;EU.1.3.5.;;Specific support and policy actions;EU.1.3.;AAC;4;5
+AAD;EU.1.4.;INFRA;Research infrastructures;EU.1.;AA;3;4
+AADA;EU.1.4.1.;;Developing the European research infrstructures for 2020 and beyond;EU.1.4.;AAD;4;5
+AADAA;EU.1.4.1.1.;;Developing new world-class research infrastructures;EU.1.4.1.;AADA;5;6
+AADAB;EU.1.4.1.2.;;Integrating and opening existing national and regional  research infrastructures of European interest;EU.1.4.1.;AADA;5;6
+AADAC;EU.1.4.1.3.;;Development, deployment and operation of ICT-based e-infrastructures;EU.1.4.1.;AADA;5;6
+AADB;EU.1.4.2.;;Fostering the innovation potential of research infrastructures and their human resources;EU.1.4.;AAD;4;5
+AADBA;EU.1.4.2.1.;;Exploiting the innovation potential of research infrastructures;EU.1.4.2.;AADB;5;6
+AADBB;EU.1.4.2.2.;;Strengthening the human capital of research infrastructures;EU.1.4.2.;AADB;5;6
+AADC;EU.1.4.3.;;Reinforcing European research infrastructure policy and international cooperation;EU.1.4.;AAD;4;5
+AADCA;EU.1.4.3.1.;;Reinforcing European policy for research infrastructures;EU.1.4.3.;AADC;5;6
+AADCB;EU.1.4.3.2.;;Facilitate strategic international cooperation;EU.1.4.3.;AADC;5;6
+AAZ;EU.1.0.;EXCSCI-CROSST;Excellent Science - Cross-theme;EU.1.;AA;3;
+AB;EU.2.;Industrial Leadership;Industrial Leadership;H2020;A;2;3
+ABA;EU.2.1.1.;ICT;Information and Communication Technologies;EU.2.1.;AB;3;5
+ABAA;EU.2.1.1.1.;;A new generation of components and systems: Engineering of advanced embedded and energy and resource efficient components and systems;EU.2.1.1.;ABA;4;6
+ABAB;EU.2.1.1.2.;;Next generation computing: Advanced and secure computing systems and technologies, including cloud computing;EU.2.1.1.;ABA;4;6
+ABAC;EU.2.1.1.3.;;Future Internet: Software, hardware, Infrastructures, technologies and services;EU.2.1.1.;ABA;4;6
+ABAD;EU.2.1.1.4.;;Content technologies and information management: ICT for digital content, cultural and creative industries;EU.2.1.1.;ABA;4;6
+ABAE;EU.2.1.1.5.;;Advanced interfaces and robots: Robotics and smart spaces;EU.2.1.1.;ABA;4;6
+ABAF;EU.2.1.1.6.;;Micro- and nanoelectronics and photonics: Key enabling technologies related to micro- and nanoelectronics and to photonics, covering also quantum technologies;EU.2.1.1.;ABA;4;6
+ABAG;EU.2.1.1.7.;ECSEL;ECSEL;EU.2.1.1.;ABA;4;6
+ABAGA;EU.2.1.1.7.1.;;Design technologies, process and integration, equipment, materials and manufacturing for micro- and nanoelectronics while targeting miniaturisation, diversification and differentiation, heterogeneous integration;EU.2.1.1.7.;ABAG;5;7
+ABAGB;EU.2.1.1.7.2.;;Processes, methods, tools and platforms, reference designs and architectures, for software and/or control-intensive embedded/cyber-physical systems, addressing seamless connectivity and interoperability, functional safety, high availability, and security;EU.2.1.1.7.;ABAG;5;7
+ABAGC;EU.2.1.1.7.3.;;Multi-disciplinary approaches for smart systems, supported by developments in holistic design and advanced manufacturing to realise self-reliant and adaptable smart systems having sophisticated interfaces and offering complex functionalities based on, for;EU.2.1.1.7.;ABAG;5;7
+ABAH;;INDLEAD-CROSST-CNECT;Industrial Leadership - Cross-theme - CNECT;;ABA;4;
+ABB;;NMBP;Nanotechnologies, materials, biotechnologies and processes;;AB;3;
+ABBA;EU.2.1.2.;NMP;Nanotechnologies, Advanced Materials and Production;EU.2.1.;ABB;4;5
+ABBAA;EU.2.1.2.1.;;Developing next generation nanomaterials, nanodevices and nanosystems;EU.2.1.2.;ABBA;5;6
+ABBAB;EU.2.1.2.2.;;Ensuring the safe and sustainable development and application of nanotechnologies;EU.2.1.2.;ABBA;5;6
+ABBAC;EU.2.1.2.3.;;Developing the societal dimension of nanotechnology;EU.2.1.2.;ABBA;5;6
+ABBAD;EU.2.1.2.4.;;Efficient and sustainable synthesis and manufacturing of nanomaterials, components and systems;EU.2.1.2.;ABBA;5;6
+ABBAE;EU.2.1.2.5.;;Developing and standardisation of capacity-enhancing techniques, measuring methods and equipment;EU.2.1.2.;ABBA;5;6
+ABBB;EU.2.1.3.;ADVMAT;Advanced materials;EU.2.1.;ABB;4;5
+ABBBA;EU.2.1.3.1.;;Cross-cutting and enabling materials technologies;EU.2.1.3.;ABBB;5;6
+ABBBB;EU.2.1.3.2.;;Materials development and transformation;EU.2.1.3.;ABBB;5;6
+ABBBC;EU.2.1.3.3.;;Management of materials components;EU.2.1.3.;ABBB;5;6
+ABBBD;EU.2.1.3.4.;;Materials for a sustainable, resource-efficient and low-emission industry;EU.2.1.3.;ABBB;5;6
+ABBBE;EU.2.1.3.5.;;Materials for creative industries, including heritage;EU.2.1.3.;ABBB;5;6
+ABBBF;EU.2.1.3.6.;;Metrology, characterisation, standardisation and quality control;EU.2.1.3.;ABBB;5;6
+ABBBG;EU.2.1.3.7.;;Optimisation of the use of materials;EU.2.1.3.;ABBB;5;6
+ABBC;EU.2.1.4.;BIOTECH;Biotechnology;EU.2.1.;ABB;4;5
+ABBCA;EU.2.1.4.1.;;Boosting cutting-edge biotechnologies as a future innovation driver;EU.2.1.4.;ABBC;5;6
+ABBCB;EU.2.1.4.2.;;Bio-technology based industrial products and processes;EU.2.1.4.;ABBC;5;6
+ABBCC;EU.2.1.4.3.;;Innovative and competitive platform technologies;EU.2.1.4.;ABBC;5;6
+ABBD;EU.2.1.5.;ADVMANU;Advanced manufacturing and processing;EU.2.1.;ABB;4;5
+ABBDA;EU.2.1.5.1.;;Technologies for Factories of the Future;EU.2.1.5.;ABBD;5;6
+ABBDB;EU.2.1.5.2.;;Technologies enabling energy-efficient systems and energy-efficient buildings with a low environmental impact;EU.2.1.5.;ABBD;5;6
+ABBDC;EU.2.1.5.3.;;Sustainable, resource-efficient and low-carbon technologies in energy-intensive process industries;EU.2.1.5.;ABBD;5;6
+ABBDD;EU.2.1.5.4.;;New sustainable business models;EU.2.1.5.;ABBD;5;6
+ABBE;;INDLEAD-CROSST-RTD;Industrial Leadership - Cross-theme - RTD;;ABB;4;
+ABC;EU.2.1.6.;SPACE;Space;EU.2.1.;AB;3;5
+ABCA;EU.2.1.6.1.;;Enabling European competitiveness, non-dependence and innovation of the European space sector;EU.2.1.6.;ABC;4;6
+ABCAA;EU.2.1.6.1.1.;;Safeguard and further develop a competitive, sustainable and entrepreneurial space industry and research community and strengthen European non-dependence in space systems;EU.2.1.6.1.;ABCA;5;7
+ABCAB;EU.2.1.6.1.2.;;Boost innovation between space and non-space sectors;EU.2.1.6.1.;ABCA;5;7
+ABCB;EU.2.1.6.2.;;Enabling advances in space technology;EU.2.1.6.;ABC;4;6
+ABCC;EU.2.1.6.3.;;Enabling exploitation of space data;EU.2.1.6.;ABC;4;6
+ABCD;EU.2.1.6.4.;;Enabling European research in support of international space partnerships;EU.2.1.6.;ABC;4;6
+ABD;EU.2.2.;RISKFINANCE;Access to risk finance;EU.2.;AB;3;4
+ABDA;EU.2.2.1.;;Debt facility;EU.2.2.;ABD;4;5
+ABDB;EU.2.2.2.;;Equity facility;EU.2.2.;ABD;4;5
+ABE;EU.2.3.;SME;Innovation in SMEs;EU.2.;AB;3;4
+ABEA;EU.2.3.1.;;Mainstreaming SME support, especially through a dedicated instrument;EU.2.3.;ABE;4;5
+ABEB;EU.2.3.2.;;Specific support;EU.2.3.;ABE;4;5
+ABEBA;EU.2.3.2.1.;;Support for research intensive SMEs;EU.2.3.2.;ABEB;5;6
+ABEBB;EU.2.3.2.2.;;Enhancing the innovation capacity of SMEs;EU.2.3.2.;ABEB;5;6
+ABEBC;EU.2.3.2.3.;;Supporting market-driven innovation;EU.2.3.2.;ABEB;5;6
+ABF;;INDLEAD-CROSST-PME;Industrial Leadership - Cross-theme - PME;EU.2.;AB;3;
+ABZ;EU.2.0.;INDLEAD-CROSST;Industrial Leadership - Cross-theme;EU.2.;AB;3;
+AC;EU.3.;Societal Challenges;Societal Challenges;H2020;A;2;3
+ACA;EU.3.1.;HEALTH;Health, demographic change and wellbeing;EU.3.;AC;3;4
+ACAA;EU.3.1.1.;;Understanding health, wellbeing and disease;EU.3.1.;ACA;4;5
+ACAAA;EU.3.1.1.1.;;Understanding the determinants of health, improving health promotion and disease prevention;EU.3.1.1.;ACAA;5;6
+ACAAB;EU.3.1.1.2.;;Understanding disease;EU.3.1.1.;ACAA;5;6
+ACAAC;EU.3.1.1.3.;;Improving surveillance and preparedness;EU.3.1.1.;ACAA;5;6
+ACAB;EU.3.1.2.;;Preventing disease;EU.3.1.;ACA;4;5
+ACABA;EU.3.1.2.1.;;Developing effective prevention and screening programmes and improving the assessment of disease susceptibility;EU.3.1.2.;ACAB;5;6
+ACABB;EU.3.1.2.2.;;Improving diagnosis and prognosis;EU.3.1.2.;ACAB;5;6
+ACABC;EU.3.1.2.3.;;Developing better preventive and therapeutic vaccines;EU.3.1.2.;ACAB;5;6
+ACAC;EU.3.1.3.;;Treating and managing disease;EU.3.1.;ACA;4;5
+ACACA;EU.3.1.3.1.;;Treating disease, including developing regenerative medicine;EU.3.1.3.;ACAC;5;6
+ACACB;EU.3.1.3.2.;;Transferring knowledge to clinical practice and scalable innovation actions;EU.3.1.3.;ACAC;5;6
+ACAD;EU.3.1.4.;;Active ageing and self-management of health;EU.3.1.;ACA;4;5
+ACADA;EU.3.1.4.1.;;Active ageing, independent and assisted living;EU.3.1.4.;ACAD;5;6
+ACADB;EU.3.1.4.2.;;Individual awareness and empowerment for self-management of health;EU.3.1.4.;ACAD;5;6
+ACAE;EU.3.1.5.;;Methods and data;EU.3.1.;ACA;4;5
+ACAEA;EU.3.1.5.1.;;Improving halth information and better use of health data;EU.3.1.5.;ACAE;5;6
+ACAEB;EU.3.1.5.2.;;Improving scientific tools and methods to support policy making and regulatory needs;EU.3.1.5.;ACAE;5;6
+ACAEC;EU.3.1.5.3.;;Using in-silico medicine for improving disease management and prediction;EU.3.1.5.;ACAE;5;6
+ACAF;EU.3.1.6.;;Health care provision and integrated care;EU.3.1.;ACA;4;5
+ACAFA;EU.3.1.6.1.;;Promoting integrated care;EU.3.1.6.;ACAF;5;6
+ACAFB;EU.3.1.6.2.;;Optimising the efficiency and effectiveness of healthcare provision and reducing inequalities by evidence based decision making and dissemination of best practice, and innovative technologies and approaches;EU.3.1.6.;ACAF;5;6
+ACAG;EU.3.1.7.;IMI2;Innovative Medicines Initiative 2 (IMI2);EU.3.1.;ACA;4;5
+ACAGA;EU.3.1.7.1.;;Antimicrobial resistance;EU.3.1.7.;ACAG;5;6
+ACAGB;EU.3.1.7.2.;;Osteoarthritis;EU.3.1.7.;ACAG;5;6
+ACAGC;EU.3.1.7.3.;;Cardiovascular diseases;EU.3.1.7.;ACAG;5;6
+ACAGD;EU.3.1.7.4.;;Diabetes;EU.3.1.7.;ACAG;5;6
+ACAGE;EU.3.1.7.5.;;Neurodegenerative diseases;EU.3.1.7.;ACAG;5;6
+ACAGF;EU.3.1.7.6.;;Psychiatric diseases;EU.3.1.7.;ACAG;5;6
+ACAGG;EU.3.1.7.7.;;Respiratory diseases;EU.3.1.7.;ACAG;5;6
+ACAGH;EU.3.1.7.8.;;Immune-mediated diseases;EU.3.1.7.;ACAG;5;6
+ACAGI;EU.3.1.7.9.;;Ageing-associated diseases;EU.3.1.7.;ACAG;5;6
+ACAGJ;EU.3.1.7.10.;;Cancer;EU.3.1.7.;ACAG;5;6
+ACAGK;EU.3.1.7.11.;;Rare/Orphan Diseases;EU.3.1.7.;ACAG;5;6
+ACAGL;EU.3.1.7.12.;;Vaccine;EU.3.1.7.;ACAG;5;6
+ACAGM;EU.3.1.7.13.;;Other;EU.3.1.7.;ACAG;5;6
+ACB;EU.3.2.;FOOD;Food security, sustainable agriculture and forestry, marine and maritime and inland water research;EU.3.;AC;3;4
+ACBA;EU.3.2.1.;;Sustainable agriculture and forestry;EU.3.2.;ACB;4;5
+ACBAA;EU.3.2.1.1.;;Increasing production efficiency and coping with climate change, while ensuring sustainability and resilience;EU.3.2.1.;ACBA;5;6
+ACBAB;EU.3.2.1.2.;;Providing ecosystems services and public goods;EU.3.2.1.;ACBA;5;6
+ACBAC;EU.3.2.1.3.;;Empowerment of rural areas, support to policies and rural innovation;EU.3.2.1.;ACBA;5;6
+ACBAD;EU.3.2.1.4.;;Sustainable forestry;EU.3.2.1.;ACBA;5;6
+ACBB;EU.3.2.2.;; Sustainable and competitive agri-food sector for a safe and healthy diet;EU.3.2.;ACB;4;5
+ACBBA;EU.3.2.2.1.;;Informed consumer choices;EU.3.2.2.;ACBB;5;6
+ACBBB;EU.3.2.2.2.;;Healthy and safe foods and diets for all;EU.3.2.2.;ACBB;5;6
+ACBBC;EU.3.2.2.3.;;A sustainable and competitive agri-food industry;EU.3.2.2.;ACBB;5;6
+ACBC;EU.3.2.3.;;Unlocking the potential of aquatic living resources;EU.3.2.;ACB;4;5
+ACBCA;EU.3.2.3.1.;;Developing sustainable and environmentally-friendly fisheries;EU.3.2.3.;ACBC;5;6
+ACBCB;EU.3.2.3.2.;;Developing competitive and environmentally-friendly European aquaculture;EU.3.2.3.;ACBC;5;6
+ACBCC;EU.3.2.3.3.;;Boosting marine and maritime innovation through biotechnology;EU.3.2.3.;ACBC;5;6
+ACBD;EU.3.2.4.;;Sustainable and competitive bio-based industries and supporting the development of a European bio-economy;EU.3.2.;ACB;4;5
+ACBDA;EU.3.2.4.1.;;Fostering the bio-economy for bio-based industries;EU.3.2.4.;ACBD;5;6
+ACBDB;EU.3.2.4.2.;;Developing integrated biorefineries;EU.3.2.4.;ACBD;5;6
+ACBDC;EU.3.2.4.3.;;Supporting market development for bio-based products and processes;EU.3.2.4.;ACBD;5;6
+ACBE;EU.3.2.5.;;Cross-cutting marine and maritime research;EU.3.2.;ACB;4;5
+ACBEA;EU.3.2.5.1.;;Climate change impact on marine ecosystems and maritime economy;EU.3.2.5.;ACBE;5;6
+ACBEB;EU.3.2.5.2.;;Develop the potential of marine resources through an integrated approach;EU.3.2.5.;ACBE;5;6
+ACBEC;EU.3.2.5.3.;;Cross-cutting concepts and technologies enabling maritime growth;EU.3.2.5.;ACBE;5;6
+ACBF;EU.3.2.6.;BBI;Bio-based Industries Joint Technology Initiative (BBI-JTI);EU.3.2.;ACB;4;5
+ACBFA;EU.3.2.6.1.;;Sustainable and competitive bio-based industries and supporting the development of a European bio-economy;EU.3.2.6.;ACBF;5;6
+ACBFB;EU.3.2.6.2.;;Fostering the bio-economy for bio-based industrie;EU.3.2.6.;ACBF;5;6
+ACBFC;EU.3.2.6.3.;;Sustainable biorefineries;EU.3.2.6.;ACBF;5;6
+ACC;EU.3.3.;ENERGY;Secure, clean and efficient energy;EU.3.;AC;3;4
+ACCA;EU.3.3.1.;;Reducing energy consumption and carbon foorpint by smart and sustainable use;EU.3.3.;ACC;4;5
+ACCAA;EU.3.3.1.1.;;Bring to mass market technologies and services for a smart and efficient energy use;EU.3.3.1.;ACCA;5;6
+ACCAB;EU.3.3.1.2.;;Unlock the potential of efficient and renewable heating-cooling systems;EU.3.3.1.;ACCA;5;6
+ACCAC;EU.3.3.1.3.;;Foster European Smart cities and Communities;EU.3.3.1.;AACCA;5;6
+ACCB;EU.3.3.2.;;Low-cost, low-carbon energy supply;EU.3.3.;ACC;4;5
+ACCBA;EU.3.3.2.1.;;Develop the full potential of wind energy;EU.3.3.2.;ACCB;5;6
+ACCBB;EU.3.3.2.2.;;Develop efficient, reliable and cost-competitive solar energy systems;EU.3.3.2.;ACCB;5;6
+ACCBC;EU.3.3.2.3.;;Develop competitive and environmentally safe technologies for CO2 capture, transport, storage and re-use;EU.3.3.2.;ACCB;5;6
+ACCBD;EU.3.3.2.4.;;Develop geothermal, hydro, marine and other renewable energy options;EU.3.3.2.;ACCB;5;6
+ACCC;EU.3.3.3.;;Alternative fuels and mobile energy sources;EU.3.3.;ACC;4;5
+ACCCA;EU.3.3.3.1.;;Make bio-energy more competitive and sustainable;EU.3.3.3.;ACCC;5;6
+ACCCB;EU.3.3.3.2.;;Reducing time to market for hydrogen and fuel cells technologies;EU.3.3.3.;ACCC;5;6
+ACCCC;EU.3.3.3.3.;;New alternative fuels;EU.3.3.3.;ACCC;5;6
+ACCD;EU.3.3.4.;;A single, smart European electricity grid;EU.3.3.;ACC;4;5
+ACCE;EU.3.3.5.;;New knowledge and technologies;EU.3.3.;ACC;4;5
+ACCF;EU.3.3.6.;;Robust decision making and public engagement;EU.3.3.;ACC;4;5
+ACCG;EU.3.3.7.;;Market uptake of energy innovation;EU.3.3.;ACC;4;5
+ACCH;EU.3.3.8.;FCH2;FCH2 (energy objectives);EU.3.3.;ACC;4;5
+ACCHA;EU.3.3.8.1.;;Increase the electrical efficiency and the durability of the different fuel cells used for power production to levels which can compete with conventional technologies, while reducing costs;EU.3.3.8.;ACCH;5;6
+ACCHC;EU.3.3.8.3.;;Demonstrate on a large scale the feasibility of using hydrogen to support integration of renewable energy sources into the energy systems, including through its use as a competitive energy storage medium for electricity produced from renewable energy sour;EU.3.3.8.;ACCH;5;6
+ACCI;;ENERGY1;Geothermal Energy;EU.3.3.;ACC;4;5
+ACCJ;;ENERGY2;RES integration in the energy system;EU.3.3.;ACC;4;5
+ACCK;;ENERGY3;Ocean Energy;EU.3.3.;ACC;4;5
+ACCL;;ENERGY4;Combined Heat and Power;EU.3.3.;ACC;4;5
+ACCM;;ENERGY5;Wind Energy;EU.3.3.;ACC;4;5
+ACCN;;ENERGY6;Solar Heating and cooling;EU.3.3.;ACC;4;5
+ACCO;;ENERGY7;Photovoltaics;EU.3.3.;ACC;4;5
+ACCP;;ENERGY8;Concentrated Solar Power;EU.3.3.;ACC;4;5
+ACCQ;;ENERGY9;Hydropower;EU.3.3.;ACC;4;5
+ACCR;;SOCCHAL-CROSST;Societal Challenges - Cross-theme;EU.3.;ACC;4;
+ACD;EU.3.4.;TPT;Smart, green and integrated transport;EU.3.;AC;3;4
+ACDA;EU.3.4.1.;;Resource efficient transport that respects the environment;EU.3.4.;ACD;4;5
+ACDAA;EU.3.4.1.1.;;Making aircraft, vehicles and vessels cleaner and quieter will improve environmental performance and reduce perceived noise and vibration;EU.3.4.1.;ACDA;5;6
+ACDAB;EU.3.4.1.2.;;Developing smart equipment, infrastructures and services;EU.3.4.1.;ACDA;5;6
+ACDAC;EU.3.4.1.3.;;Improving transport and mobility in urban areas;EU.3.4.1.;ACDA;5;6
+ACDB;EU.3.4.2.;;Better mobility, less congestion, more safety and security;EU.3.4.;ACD;4;5
+ACDBA;EU.3.4.2.1.;;A substantial reduction of traffic congestion;EU.3.4.2.;ACDB;5;6
+ACDBB;EU.3.4.2.2.;;Substantial improvements in the mobility of people and freight;EU.3.4.2.;ACDB;5;6
+ACDBC;EU.3.4.2.3.;;Developing new concepts of freight transport and logistics;EU.3.4.2.;ACDB;5;6
+ACDBD;EU.3.4.2.4.;;Reducing accident rates, fatalities and casualties and improving security;EU.3.4.2.;ACDB;5;6
+ACDC;EU.3.4.3.;;Global leadership for the European transport industry;EU.3.4.;ACD;4;5
+ACDCA;EU.3.4.3.1.;;Developing the next generation of transport means as the way to secure market share in the future;EU.3.4.3.;ACDC;5;6
+ACDCB;EU.3.4.3.2.;;On board, smart control systems;EU.3.4.3.;ACDC;5;6
+ACDCC;EU.3.4.3.3.;;Advanced production processes;EU.3.4.3.;ACDC;5;6
+ACDCD;EU.3.4.3.4.;;Exploring entirely new transport concepts;EU.3.4.3.;ACDC;5;6
+ACDD;EU.3.4.4.;;Socio-economic and behavioural research and forward looking activities for policy making;EU.3.4.;ACD;4;5
+ACDE;EU.3.4.5;CS2;CLEANSKY2;EU.3.4.;ACD;5;6
+ACDEA;EU.3.4.5.1.;;IADP Large Passenger Aircraft;EU.3.4.5;ACDE;6;7
+ACDEB;EU.3.4.5.2.;;IADP Regional Aircraft;EU.3.4.5;ACDE;6;7
+ACDEC;EU.3.4.5.3.;;IADP Fast Rotorcraft;EU.3.4.5;ACDE;6;7
+ACDED;EU.3.4.5.4.;;ITD Airframe;EU.3.4.5;ACDE;6;7
+ACDEE;EU.3.4.5.5.;;ITD Engines;EU.3.4.5;ACDE;6;7
+ACDEF;EU.3.4.5.6.;;ITD Systems;EU.3.4.5;ACDE;6;7
+ACDEG;EU.3.4.5.7.;;Small Air Transport (SAT) Transverse Area;EU.3.4.5;ACDE;6;7
+ACDEH;EU.3.4.5.8.;;ECO Transverse  Area;EU.3.4.5;ACDE;6;7
+ACDEI;EU.3.4.5.9.;;Technology Evaluator;EU.3.4.5;ACDE;6;7
+ACDF;EU.3.4.6.;FCH2;FCH2 (transport objectives);EU.3.4.;ACD;4;5
+ACDFA;EU.3.4.6.1.;;Reduce the production cost of fuel cell systems to be used in transport applications, while increasing their lifetime to levels which can compete with conventional technologies;EU.3.4.6.;ACDF;5;6
+ACDG;EU.3.4.7.;SESAR JU;SESAR Joint Undertaking;EU.3.4.;ACD;4;5
+ACDGA;EU.3.4.7.1;;Exploratory Research;EU.3.4.7.;ACDG;5;6
+ACDH;EU.3.4.8.;Shift2Rail JU;Shift2Rail Joint Undertaking;EU.3.4.;ACD;4;5
+ACDHA;EU.3.4.8.1.;;Innovation Programme 1 (IP1): Cost-efficient and reliable trains;EU.3.4.8.;ACDH;5;6
+ACDHB;EU.3.4.8.2.;;Innovation Programme 2: Advanced traffic management and control systems;EU.3.4.8.;ACDH;5;6
+ACDHC;EU.3.4.8.3.;;Innovation Programme 3: Cost Efficient and Reliable High Capacity Infrastructure;EU.3.4.8.;ACDH;5;6
+ACDHD;EU.3.4.8.4.;;Innovation Programme 4: IT Solutions for attractive railway services;EU.3.4.8.;ACDH;5;6
+ACDHE;EU.3.4.8.5.;;Innovation Programme 5: Technologies for sustainable and attractive European rail freight;EU.3.4.8.;ACDH;5;6
+ACDHF;EU.3.4.8.6.;;Cross-cutting themes and activities (CCA);EU.3.4.8.;ACDH;5;6
+ACE;EU.3.5.;ENV;Climate action, environment, resource efficiency and raw materials;EU.3.;AC;3;4
+ACEA;EU.3.5.1.;;Fighting and adapting to climate change;EU.3.5.;ACE;4;5
+ACEAA;EU.3.5.1.1.;;Improve the understanding of climate change and the provision of reliable climate projections;EU.3.5.1.;ACEA;5;6
+ACEAB;EU.3.5.1.2.;;Assess impacts, vulnerabilities and develop innovative cost-effective adaptation and risk prevention and management measures;EU.3.5.1.;ACEA;5;6
+ACEAC;EU.3.5.1.3.;;Support mitigation policies, including studies that focus on impact from other sectoral policies;EU.3.5.1.;ACEA;5;6
+ACEB;EU.3.5.2.;;Protection of the environment, sustainable management of natural resources, water , biodiversity and ecosystems;EU.3.5.;ACE;4;5
+ACEBA;EU.3.5.2.1.;;Further our understanding of biodiversity and the functioning of ecosystems, their interactions with social systems and their role in sustaining the economy and human well-being;EU.3.5.2.;ACEB;5;6
+ACEBB;EU.3.5.2.2.;;Developing integrated approaches to address water-related challenges and the transition to sustainable management and use of water resources and services;EU.3.5.2.;ACEB;5;6
+ACEBC;EU.3.5.2.3.;;Provide knowledge and tools for effective decision making and public engagement;EU.3.5.2.;ACEB;5;6
+ACEC;EU.3.5.3.;; Ensuring the sustainable supply of non-energy and non-agricultural raw materials;EU.3.5.;ACE;4;5
+ACECA;EU.3.5.3.1.;;Improve the knowledge base on the availability of raw materials;EU.3.5.3.;ACEC;5;6
+ACECB;EU.3.5.3.2.;;Promote the sustainable supply and use of raw materials, including mineral resources, from land and sea, covering exploration, extraction, processing, re-use, recycling and recovery;EU.3.5.3.;ACEC;5;6
+ACECC;EU.3.5.3.3.;;Find alternatives for critical raw materials;EU.3.5.3.;ACEC;5;6
+ACECD;EU.3.5.3.4.;;Improve societal awareness and skills on raw materials;EU.3.5.3.;ACEC;5;6
+ACED;EU.3.5.4.;;Enabling the transition towards a green economy and society through eco-innovation;EU.3.5.;ACE;4;5
+ACEDA;EU.3.5.4.1.;;Strengthen  eco-innovative technologies, processes, services and products including exploring ways to reduce the quantities of raw materials in production and consumption, and overcoming barriers in this context and boost their market uptake;EU.3.5.4.;ACED;5;6
+ACEDB;EU.3.5.4.2.;;Support innovative policies and societal changes;EU.3.5.4.;ACED;5;6
+ACEDC;EU.3.5.4.3.;;Measure and assess progress towards a green economy;EU.3.5.4.;ACED;5;6
+ACEDD;EU.3.5.4.4.;;Foster resource efficiency through digital systems;EU.3.5.4.;ACED;5;6
+ACEE;EU.3.5.5.;;Developing comprehensive and sustained global environmental observation and information systems;EU.3.5.;ACE;4;5
+ACEF;EU.3.5.6.;;Cultural heritage;EU.3.5.;ACE;4;5
+ACEFA;EU.3.5.6.1.;;Identifying resilience levels via observations, monitoring and modelling;EU.3.5.6.;ACEF;5;6
+ACEFB;EU.3.5.6.2.;;Providing for a better understanding on how communities perceive and respond to climate change and seismic and volcanic hazards;EU.3.5.6.;ACEF;5;6
+ACEG;EU.3.5.7.;FCH2;FCH2 (raw materials objective);EU.3.5.;ACE;4;5
+ACEGA;EU.3.5.7.1.;;"Reduce the use of the EU defined ""Critical raw materials"", for instance through low platinum or platinum free resources and through recycling or reducing or avoiding the use of rare earth elements";EU.3.5.7.;ACEG;5;6
+ACF;EU.3.6.;SOCIETY;Europe in a changing world - inclusive, innovative and reflective Societies;EU.3.;AC;3;4
+ACFA;EU.3.6.1.;;Inclusive societies;EU.3.6.;ACF;4;5
+ACFAA;EU.3.6.1.1.;;The mechanisms to promote smart, sustainable and inclusive growth;EU.3.6.1.;ACFA;5;6
+ACFAB;EU.3.6.1.2.;;Trusted organisations, practices, services and policies that are necessary to build resilient, inclusive, participatory, open and creative societies in Europe, in particular taking into account migration, integration and demographic change;EU.3.6.1.;ACFA;5;6
+ACFAC;EU.3.6.1.3.;;Europe's role as a global actor, notably regarding human rights and global justice;EU.3.6.1.;ACFA;5;6
+ACFAD;EU.3.6.1.4.;;The promotion of sustainable and inclusive environments through innovative spatial and urban planning and design;EU.3.6.1.;ACFA;5;6
+ACFB;EU.3.6.2.;;Innovative societies;EU.3.6.;ACF;4;5
+ACFBA;EU.3.6.2.1.;;Strengthen the evidence base and support for the Innovation Union and ERA;EU.3.6.2.;ACFB;5;6
+ACFBB;EU.3.6.2.2.;;Explore new forms of innovation, with special emphasis on social innovation and creativity and understanding how all forms of innovation are developed, succeed or fail;EU.3.6.2.;ACFB;5;6
+ACFBC;EU.3.6.2.3.;;Make use of the innovative, creative and productive potential of all generations;EU.3.6.2.;ACFB;5;6
+ACFBD;EU.3.6.2.4.;;Promote coherent and effective cooperation with third countries;EU.3.6.2.;ACFB;5;6
+ACFC;EU.3.6.3.;;Reflective societies - cultural heritage and European identity;EU.3.6.;ACF;4;5
+ACFCA;EU.3.6.3.1.;;Study European heritage, memory, identity, integration and cultural interaction and translation, including its representations in cultural and scientific collections, archives and museums, to better inform and understand the present by richer interpretati;EU.3.6.3.;ACFC;5;6
+ACFCB;EU.3.6.3.2.;;Research into European countries' and regions' history, literature, art, philosophy and religions and how these have informed contemporary European diversity;EU.3.6.3.;ACFC;5;6
+ACFCC;EU.3.6.3.3.;;Research on Europe's role in the world, on the mutual influence and ties between the world regions, and a view from outside on European cultures;EU.3.6.3.;ACFC;5;6
+ACG;EU.3.7.;SECURITY;Secure societies - Protecting freedom and security of Europe and its citizens;EU.3.;AC;3;4
+ACGA;EU.3.7.1.;;Fight crime, illegal trafficking and terrorism, including understanding and tackling terrorist ideas and beliefs;EU.3.7.;ACG;4;5
+ACGB;EU.3.7.2.;;Protect and improve the resilience of critical infrastructures, supply chains and tranport modes;EU.3.7.;ACG;4;5
+ACGC;EU.3.7.3.;;Strengthen security through border management;EU.3.7.;ACG;4;5
+ACGD;EU.3.7.4.;;Improve cyber security;EU.3.7.;ACG;4;5
+ACGE;EU.3.7.5.;;Increase Europe's resilience to crises and disasters;EU.3.7.;ACG;4;5
+ACGF;EU.3.7.6.;;Ensure privacy and freedom, including in the Internet and enhance the societal, legal and ethical understanding of all areas of security, risk and management;EU.3.7.;ACG;4;5
+ACGG;EU.3.7.7.;;Enhance stadardisation and interoperability of systems, including for emergency purposes;EU.3.7.;ACG;4;5
+ACGH;EU.3.7.8.;;Support the Union's external security policies including through conflict prevention and peace-building;EU.3.7.;ACG;4;5
+ACZ;EU.3.0.;SOCCHAL-CROSST;Societal Challenges - Cross-theme;EU.3.;AC;3;
+AD;EU.4.;WIDENING;Spreading excellence and widening participation;EC;A;2;3
+ADA;EU.4.a.;WIDESPREAD;Teaming of excellent research institutions and low performing RDI regions;EU.4.;AD;3;4
+ADB;EU.4.b.;TWINING;Twinning of research institutions;EU.4.;AD;3;4
+ADC;EU.4.c.;ERA;ERA chairs;EU.4.;AD;3;4
+ADD;EU.4.d.;PSF;Policy Support Facility (PSF);EU.4.;AD;3;4
+ADE;EU.4.e.;INTNET;Supporting access to international networks;EU.4.;AD;3;4
+ADF;EU.4.f.;NCPNET;Transnational networks of National Contact Points;EU.4.;AD;3;4
+ADZ;EU.4.0.;SEAWP-CROSST;Spreading excellence and widening participation - Cross-theme;EU.4.;AD;3;
+AE;EU.5.;SWAFS;Science with and for Society;EC;A;2;3
+AEA;EU.5.a.;CAREER;Make scientific and technological careers attractive for young people;EU.5.;AE;3;4
+AEB;EU.5.b.;GENDEREQ;Promote gender equality in research and innovation;EU.5.;AE;3;4
+AEC;EU.5.c.;INEGSOC;Integrate society in science and innovation;EU.5.;AAE;3;4
+AED;EU.5.d.;SCIENCE;Encourage citizens to engage in science;EU.5.;AE;3;4
+AEE;EU.5.e.;RESACCESS;Develop the accessibility and the use of the results of publicly-funded research;EU.5.;AE;3;4
+AEF;EU.5.f.;GOV;Develop the governance for the advancement of responsible research and innovation;EU.5.;AE;3;4
+AEG;EU.5.g.;IMPACT;Anticipating and assessing potential environmental, health and safety impacts;EU.5.;AE;3;4
+AEH;EU.5.h.;KNOWLEDGE;Improve knowledge on science communication;EU.5.;AE;3;4
+AEZ;EU.5.0.;SWAFS-CROSST;Science with and for Society - Cross-theme;EU.5.;AE;3;
+AF;EU.6.;JRC;Non-nuclear direct actions of the Joint Research Centre (JRC);EC;A;2;3
+AG;EU.7.;EIT;The European Institute of Innovation and Technology (EIT);EC;A;2;3
+AGA;;Climate;Climate;;AG;3;
+AGB;;Digital;Digital;;AG;3;
+AGC;;Health;Health;;AG;3;
+AGD;;InnoEnergy;InnoEnergy;;AG;3;
+AGE;;Raw Materials;Raw Materials;;AG;3;
+AT;Euratom;EURATOM;Euratom;H2020;A;2;
+ATA;Euratom-1.;Indirect actions;Indirect actions;Euratom;AT;3;3
+ATAA;Euratom-1.1.;;Support safe operation of nuclear systems;Euratom-1.;ATA;4;4
+ATAB;Euratom-1.2.;;Contribute to the development of solutions for the management of ultimate nuclear waste;Euratom-1.;ATA;4;4
+ATAC;Euratom-1.3.;;Support the development and sustainability of nuclear competences at Union level;Euratom-1.;ATA;4;4
+ATAD;Euratom-1.4.;;Foster radiation protection;Euratom-1.;ATA;4;4
+ATAE;Euratom-1.5.;;Move toward demonstration of feasibility of fusion as a power source by exploiting existing and future fusion facilities;Euratom-1.;ATA;4;4
+ATAF;Euratom-1.6.;;Lay the foundations for future fusion power plants by developing materials, technologies and conceptual design;Euratom-1.;ATA;4;4
+ATAG;Euratom-1.7.;;Promote innovation and industry competitiveness;Euratom-1.;ATA;4;4
+ATAH;Euratom-1.8.;;Ensure availability and use of research infrastructures of pan_european relevance;Euratom-1.;ATA;4;4
+ATAI;Euratom-1.9.;;European Fusion Development Agreement;Euratom-1.;ATA;4;4
+ATB;Euratom-2.;JRC direct actions;JRC direct actions;Euratom;AT;3;3
+AZ;EU.0.;FTIPilot;Fast Track to Innovation Pilot;EC;A;2;
+;EC;;EC Treaty;;;;
+;EU.2.1.;;Leadership in enabling and industrial technologies (LEIT);;;;

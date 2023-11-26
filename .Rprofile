@@ -1,0 +1,18 @@
+invisible(utils::memory.limit(size = 60000))
+
+library(plyr)
+library(dplyr)
+library(stringr)
+library(tidyr)
+library(purrr)
+library(lubridate)
+library(readr)
+library(magrittr)
+library(dtplyr)
+library(pryr)
+library(reshape)
+library(svSocket)
+library(readxl)
+library(enc)
+library(jsonlite)
+
